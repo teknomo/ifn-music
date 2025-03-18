@@ -1,0 +1,5 @@
+keyboard
+numpy
+PyAudio
+soundfile
+scipy
